@@ -1,0 +1,3 @@
+Cryptography and network security are both methods of protecting data and networks
+Cryptography uses mathematical algorithms to scramble information
+while network security is a collection of measures to protect a networks components and data
